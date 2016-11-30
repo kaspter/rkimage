@@ -1,0 +1,16 @@
+
+
+RockChip utils :
+
+kernel.img : mkkrnlimg工具将zImage 添加KRNL head和CRC checksum
+resource.img : resource_tool 打包dtb和logo文件
+
+update.zip : RKImageMaker：RKImageMaker：
+
+rkcrc.c
+rkarc4.c
+
+AFPTool 旧格式固件打包解包工具
+
+img_unpack 固件新格式转旧格式
+img_maker 固件旧格式打包成新格式
